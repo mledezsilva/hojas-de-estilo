@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+:root {
+  /* ============ Colores de marca */
+  --brandColor-01: #051c2c;
+  --brandColor-02: #A90429;
+  --brandColor-03: #485156;
+
+  /* ============ Escala de grises */
+  --grayScale-050: #F8F9FA;
+  --grayScale-100: #EBEDEF;
+  --grayScale-200: #DDE1E4;
+  --grayScale-300: #CED3D8;
+  --grayScale-400: #646d74;
+  --grayScale-800: #3B3F44;
+
+  /* ============ Estilos generales */
+  --bnrIntroHeight: 200px;
+  --borderRadius: 5px;
+  --blur: 5px;
+  --textShadow: 3px 3px 5px rgba(0, 0, 0, 1);
+  --boxShadow-01: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 32px;
+  --boxShadow-02: rgba(17, 17, 26, 0.3) 0px 4px 16px, rgba(17, 17, 26, 0.3) 0px 8px 32px;
+
+
+  /*  Colores por programa/facultad */
+  /* --prg_cienciasRehab: #00bf9f;
+  --prg_cienciasVida: #a4ca3d;
+  --prg_cienciasExactas: #553b8f;
+  --prg_derecho: #056653;
+  --prg_cienciasSociales: #b53c10;
+  --prg_enfermeria: #4b7beb;
+  --prg_ingenieria: #20246d;
+  --prg_medicina: #2fbed4;
+  --prg_odontologia: #1578ac;
+  --prg_economia: #c99400;
+  --prg_capusCreativo: #73797c; */
+}
