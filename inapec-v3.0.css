@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+/* =========  Añade Custom properties y estilos base */
+@import url('https://raw.githubusercontent.com/mledezsilva/hojas-de-estilo/refs/heads/main/inapec-theme-cstm_properties-v3.0.css');
+@import url('https://raw.githubusercontent.com/mledezsilva/hojas-de-estilo/refs/heads/main/inapec-csslayout-v3.0.css');
+:root {
+
+  /*  Colores por programa:
+  --prg_cienciasRehab: #00bf9f;
+  --prg_cienciasVida: #a4ca3d;
+  --prg_cienciasExactas: #553b8f;
+  --prg_derecho: #056653;
+  --prg_cienciasSociales: #b53c10;
+  --prg_enfermeria: #4b7beb;
+  --prg_ingenieria: #20246d;
+  --prg_medicina: #2fbed4;
+  --prg_odontologia: #1578ac;
+  --prg_economia: #c99400;
+  --prg_capusCreativo: #73797c;
+
+  Reemplace el valor de la variable "--emphasisColor"
+  con la variable que corresponda a la facultad o programa
+
+  */
+
+  --emphasisColor: var(--prg_ingenieria);
+
+}
